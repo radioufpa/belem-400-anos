@@ -1,0 +1,40 @@
+.color-1 { background-color: #F89D18; }
+.color-2 { background-color: #064384; }
+.background-1 { background-color: rgba(40, 148, 171, 0.8); }
+.background-2 { background-color: rgba(42, 55, 193, 0.8); }
+.text-1 { color: #F89D18; }
+.text-2 { color: #064384; }
+
+.img-pontos-turisticos { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/pontos-turisticos.jpg"); }
+
+.img-home { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/belem-para.jpg"); }
+.img-fotoativa { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/fotoativa.jpg"); }
+.img-sesc { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/sesc.jpg"); }
+.img-cine-olympia { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/cine-olympia.jpg"); }
+.img-elf-galeria { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/elf-galeria.jpg"); }
+.img-gotazkaen { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/gotazkaen.jpg"); }
+
+.img-belem { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/belem.jpg"); }
+.img-cirio { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/cirio.jpg"); }
+.img-tv-cultura { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/tv-cultura.jpg"); }
+.img-chuva { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/chuva.jpg"); }
+.img-futebol { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/futebol.jpg"); }
+.img-assembleia-de-deus { background-image: url("http://radio.ufpa.br/belem-400-anos/_images/assembleia-de-deus.jpg"); }
+
+/* Tile */
+
+.tile a {
+  background-color: rgba(42, 55, 193, 0.7);
+}
+.tile a:hover, .tile a:focus {
+  background-color: rgba(248, 157, 24, 0.7);
+}
+.big-tile { height: 260px; width: 260px; }
+.large-tile { height: 180px; width: 280px; }
+.quad-tile { height: 240px; width: 380px; }
+
+/* Track */
+
+.track a:hover, .track a:focus { background-color: #064384; }
+.track a:before { background-color: #064384; }
+.track p { color: #064384; }
